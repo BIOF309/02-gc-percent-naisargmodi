@@ -2,4 +2,4 @@
 
 Hello All!
 
-I'm Naisarg and I'm just trying to be less stupid by typing things in here!
+I'm Naisarg and I'm trying to learn to explore GitHub!
